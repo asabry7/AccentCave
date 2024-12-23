@@ -1,0 +1,10 @@
+allosaurus==1.0.2
+fastdtw==0.3.4
+librosa==0.10.2.post1
+matplotlib==3.10.0
+numpy
+plotly==5.24.1
+pydub==0.25.1
+scipy
+soundfile==0.12.1
+streamlit==1.41.1
